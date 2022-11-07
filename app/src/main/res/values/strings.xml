@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Clothing Store</string>
+    <string-array name="unidad">
+        <item>No Aplica</item>
+        <item>Talla S</item>
+        <item>Talla M</item>
+        <item>Talla L</item>
+        <item>Talla XL</item>
+        <item>Talla XXL</item>
+    </string-array>
+
+    <string name="titulo">Tienda Clothing Store</string>
+    <string name="ver">Ver Productos</string>
+    <string name="ingresar">Ingresar Nuevo Producto</string>
+    <string name="eliminar">Eliminar Productos</string>
+    <string name="seleccione">Seleccione Su Talla</string>
+    <string name="numcal">Si Desea Calzado</string>
+    <string name="nombreP">Nombre del Producto</string>
+    <string name="cantidad">Cantidad de Productos</string>
+
+
+
+
+
+</resources>
